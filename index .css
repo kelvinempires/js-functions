@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.651);
+    color: antiquewhite;
+    text-transform: capitalize;
+}
+h1{
+    font-size: 100px;
+    font-weight: lighter;
+}
